@@ -1,0 +1,16 @@
+{
+  "id": "miczimici/herbert-large-aug-bt-emotion",
+  "title": "herbert large aug bt emotion",
+  "code_file": "herbert_large_aug_bt.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["miczimici/pl-emotion-processed"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}

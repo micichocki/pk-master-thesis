@@ -1,0 +1,16 @@
+{
+  "id": "miczimici/herbert-large-ig-global",
+  "title": "herbert large ig global",
+  "code_file": "herbert_large_ig_global.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": ["miczimici/pl-emotion-processed"],
+  "competition_sources": [],
+  "kernel_sources": ["miczimici/herbert-large-full-emotion"],
+  "model_sources": []
+}

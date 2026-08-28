@@ -1,0 +1,18 @@
+{
+  "id": "miczimici/xlmr-large-full-emotion",
+  "title": "xlmr large full emotion",
+  "code_file": "xlmr_large_full.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "miczimici/pl-emotion-processed"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}

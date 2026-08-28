@@ -1,0 +1,18 @@
+{
+  "id": "miczimici/bielik-4-5b-emotion-fp16-lora",
+  "title": "Bielik 4.5B emotion fp16 LoRA",
+  "code_file": "bielik45_emotion.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "miczimici/pl-emotion-processed"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}

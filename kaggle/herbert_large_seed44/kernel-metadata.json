@@ -1,0 +1,18 @@
+{
+  "id": "miczimici/herbert-large-seed44",
+  "title": "herbert large seed44",
+  "code_file": "herbert_large_seed44.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "miczimici/pl-emotion-processed"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
